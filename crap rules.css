@@ -1,0 +1,11 @@
+button
+{
+    background-color:  blueviolet;
+    border-color: rgb(6, 12 14);
+    border-radius: 50px;
+    border-style: dashed;
+    width: 100px;
+    height: 100px;
+    cursor: crosshair;
+
+}
